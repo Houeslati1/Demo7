@@ -7,5 +7,6 @@ public class DemoTest {
 		System.out.println("Hedia..");
 
 	}
-
+  public static void main(String[] args) {
+	  System.out.println("testing");
 }
